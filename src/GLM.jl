@@ -23,7 +23,7 @@ import Distributions
 using Parameters
 using Tables
 
-import ..GLM
+import GLM
 
 export LinearRegressor, LinearBinaryClassifier, LinearCountRegressor
 
